@@ -176,7 +176,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE).
 
 | Name | Role | GitHub |
 |------|------|--------|
-| _Your Name_ | _Role_ | [@username](https://github.com/username) |
+| _Mirfath Shaheen_ | _Team Lead_ | [@mirfath15](https://github.com/username) |
 
 ---
 
